@@ -6,4 +6,4 @@ This is the first part, follow-up soon.
 
 This project displays a lot of interactive maps, like choropleth maps or heatmaps, generated with the Python package Folium.
 The maps are not depicted with the Jupyter Notebook file, they can been seen only with the jupyter nbviewer hier:
-https://github.com/OrestisP/Applied-Data-Science-Capstone/blob/master/Applied%20Data%20Science%20Capstone_Avoiding%20roadworks%20in%20Berlin.ipynb
+https://nbviewer.jupyter.org/github/OrestisP/Applied-Data-Science-Capstone/blob/master/Applied%20Data%20Science%20Capstone_Avoiding%20roadworks%20in%20Berlin.ipynb
